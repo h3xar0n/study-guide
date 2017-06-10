@@ -62,6 +62,18 @@
     - [ ] Wordy
     - [ ] Flatten Array
     - [ ] Hexadecimal
+    - [ ] Largest Series Product
+    - [ ] Kindergarten Garden
+    - [ ] Binary Search
+    - [ ] Matrix
+    - [ ] Robot Simulator
+    - [ ] Nth Prime
+    - [ ] Palindrome Products
+    - [ ] Pascals Triangle
+    - [ ] Say
+    - [ ] Custom Set
+    - [ ] Sum of Multiples
+    - [ ] Queen Attack
 
 ### Vue
 
