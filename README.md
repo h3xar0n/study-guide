@@ -2,7 +2,7 @@
 
 ## Front End
 
--[ ] Sample check box
+- [ ] Sample check box
 
 ### HTML
 
