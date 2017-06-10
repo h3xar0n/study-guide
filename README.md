@@ -3,6 +3,7 @@
 ## Front End
 
 - [ ] Sample check box
+- [x] Sample check box, checked
 
 ### HTML
 
