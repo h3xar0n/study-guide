@@ -397,19 +397,45 @@
 
 ### Vue
 
+- [ ] Udemy Course
+- [ ] Spinozapp
+- [ ] Full-feature?
+
 ## Back End
 
 ### Ruby
 
+- [ ] Ruby Monk 1
+- [ ] Ruby Monk 2
+- [ ] Ruby Monk 3
+- [ ] Ruby Monk 4
+- [ ] Ruby Warrior (Make Videos!)
+- [ ] SEO Spy
+- [ ] Excercism Ruby
+
 ### Rails
+
+- [ ] Glam by Adelina
+- [ ] Tvitzar
+- [ ] Glam Chat
+- [ ] API Client
+- [ ] Gameplan Jobs
+- [ ] Dragonden
 
 ## Tools
 
 ### Vim
 
+- [ ] Vim Script
+
 ### Git
 
+- How do I rebase?
+- How do I revert?
+
 ### Command Line
+
+- More with Shell scripting
 
 ## Other
 
