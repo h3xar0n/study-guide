@@ -157,6 +157,30 @@
     - [ ] Run Length Encoding
     - [ ] Minesweeper
     - [ ] Alphametics
+- [ ] CoffeeScript Docs: http://coffeescript.org/
+- [ ] CoffeeScript Exercism: http://exercism.io/languages/coffeescript
+    - [ ] Hello World
+    - [ ] Bob
+    - [ ] Word Count
+    - [ ] Accumulate
+    - [ ] Binary
+    - [ ] Anagram
+    - [ ] Trinary
+    - [ ] Hexadecimal
+    - [ ] Luhn
+    - [ ] Binary Search Tree
+    - [ ] Nth Prime
+    - [ ] Palindrome Products
+    - [ ] Queen Attack
+    - [ ] Wordy
+    - [ ] Clock
+    - [ ] Beer Song
+    - [ ] Atbash Cipher
+    - [ ] Linked List
+    - [ ] Pascals Triangle
+    - [ ] Nucleotide Count 
+
+
 
 ### Vue
 
