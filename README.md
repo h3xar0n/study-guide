@@ -13,7 +13,9 @@
 ### JavaScript
 
 #### Vanilla JavasScript
+
 - [ ] JavaScript Quiz: https://www.w3schools.com/js/js_quiz.asp
+
 - [ ] JavaScript Exercism: http://exercism.io/languages/javascript/exercises
     - [x] Hello World
     - [x] Leap
@@ -86,6 +88,7 @@
     - [ ] Run Length Encoding
     - [ ] Minesweeper
     - [ ] Alphametics
+
 - [ ] Create Videos for JavaScript Exercism
     - [ ] Hello World
     - [ ] Leap
@@ -160,7 +163,9 @@
     - [ ] Alphametics
 
 #### ECMAScript
+
 - [ ] ECMAScript Docs: http://www.ecma-international.org/ecma-262/6.0/
+
 - [ ] ECMAScript Exercism: http://exercism.io/languages/ecmascript/exercises
     - [ ] Hello World
     - [ ] Leap
@@ -226,6 +231,7 @@
     - [ ] Isogram
     - [ ] All Your Base
     - [ ] Connect
+
 - [ ] Create Videos for ECMAScript Exercism:
     - [ ] Hello World
     - [ ] Leap
@@ -290,10 +296,11 @@
     - [ ] Diamond
     - [ ] Isogram
     - [ ] All Your Base
-    - [ ] 
 
 #### CoffeeScript
+
 - [ ] CoffeeScript Docs: http://coffeescript.org/
+
 - [ ] CoffeeScript Exercism: http://exercism.io/languages/coffeescript
     - [ ] Hello World
     - [ ] Bob
@@ -315,6 +322,7 @@
     - [ ] Linked List
     - [ ] Pascals Triangle
     - [ ] Nucleotide Count 
+
 - [ ] Create Videos for CoffeeScript Exercism
     - [ ] Hello World
     - [ ] Bob
@@ -338,7 +346,9 @@
     - [ ] Nucleotide Count 
 
 #### TypeScript
+
 - [ ] TypeScript Docs: https://www.typescriptlang.org/
+
 - [ ] TypeScript Exercism: http://exercism.io/languages/typescript/exercises
     - [ ] Hello World
     - [ ] Leap
@@ -361,6 +371,7 @@
     - [ ] Difference of Squares
     - [ ] Scrabble Score
     - [ ] Raindrops
+
 - [ ] Videos for TypeScript Exercism
     - [ ] Hello World
     - [ ] Leap
