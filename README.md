@@ -74,6 +74,17 @@
     - [ ] Custom Set
     - [ ] Sum of Multiples
     - [ ] Queen Attack
+    - [ ] Saddle Points
+    - [ ] Ocr Numbers
+    - [ ] Meetup
+    - [ ] Bracket Push
+    - [ ] Two Bucket
+    - [ ] Bowling
+    - [ ] Diamond
+    - [ ] All Your Base
+    - [ ] Run Length Encoding
+    - [ ] Minesweeper
+    - [ ] Alphametics
 
 ### Vue
 
