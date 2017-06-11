@@ -10,8 +10,9 @@
 
 - [ ] CSS Quiz: https://www.w3schools.com/css/css_quiz.asp
 
-### JavaScript/CoffeeScript
+### JavaScript
 
+#### Vanilla JavasScript
 - [ ] JavaScript Quiz: https://www.w3schools.com/js/js_quiz.asp
 - [ ] JavaScript Exercism: http://exercism.io/languages/javascript/exercises
     - [x] Hello World
@@ -157,7 +158,9 @@
     - [ ] Run Length Encoding
     - [ ] Minesweeper
     - [ ] Alphametics
-- [ ] ECMAScript
+
+#### ECMAScript
+- [ ] ECMAScript Docs: http://www.ecma-international.org/ecma-262/6.0/
 - [ ] ECMAScript Exercism: http://exercism.io/languages/ecmascript/exercises
     - [ ] Hello World
     - [ ] Leap
@@ -288,6 +291,8 @@
     - [ ] Isogram
     - [ ] All Your Base
     - [ ] 
+
+#### CoffeeScript
 - [ ] CoffeeScript Docs: http://coffeescript.org/
 - [ ] CoffeeScript Exercism: http://exercism.io/languages/coffeescript
     - [ ] Hello World
@@ -331,6 +336,8 @@
     - [ ] Linked List
     - [ ] Pascals Triangle
     - [ ] Nucleotide Count 
+
+#### TypeScript
 - [ ] TypeScript Docs: https://www.typescriptlang.org/
 - [ ] TypeScript Exercism: http://exercism.io/languages/typescript/exercises
     - [ ] Hello World
@@ -376,7 +383,6 @@
     - [ ] Difference of Squares
     - [ ] Scrabble Score
     - [ ] Raindrops
-
 
 ### Vue
 
