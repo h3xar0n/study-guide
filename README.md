@@ -157,6 +157,137 @@
     - [ ] Run Length Encoding
     - [ ] Minesweeper
     - [ ] Alphametics
+- [ ] ECMAScript
+- [ ] ECMAScript Exercism: http://exercism.io/languages/ecmascript/exercises
+    - [ ] Hello World
+    - [ ] Leap
+    - [ ] Hamming
+    - [ ] Rna Transcription 
+    - [ ] Pangram
+    - [ ] Bob
+    - [ ] Gigasecond
+    - [ ] Perfect Numbers
+    - [ ] Word Count
+    - [ ] Pangram
+    - [ ] Beer Song
+    - [ ] Phone Number
+    - [ ] Anagram
+    - [ ] Food Chain
+    - [ ] Grade School
+    - [ ] Robot Name
+    - [ ] Etl
+    - [ ] Space Age
+    - [ ] Grains
+    - [ ] Triangle
+    - [ ] Clock
+    - [ ] Acronym
+    - [ ] Scrabble Score
+    - [ ] Roman Numerals
+    - [ ] Circular Buffer
+    - [ ] Prime Factors
+    - [ ] Raindrops
+    - [ ] Allergies
+    - [ ] Strain
+    - [ ] Atbash Cipher
+    - [ ] Accumulate
+    - [ ] Crypto Square
+    - [ ] Sieve
+    - [ ] Simple Cipher
+    - [ ] Luhn
+    - [ ] Pig Latin
+    - [ ] Pythagorean Triplet
+    - [ ] Series
+    - [ ] Difference Of Squares
+    - [ ] Secret Handshake
+    - [ ] Linked List
+    - [ ] Wordy
+    - [ ] Largest Series Product
+    - [ ] Kindergarten Garden
+    - [ ] Binary Search
+    - [ ] Binary Search Tree
+    - [ ] Matrix
+    - [ ] Robot Simulator
+    - [ ] Nth Prime
+    - [ ] Palindrome Products
+    - [ ] Pascals Triangle
+    - [ ] Say
+    - [ ] Custom Set
+    - [ ] Sum Of Multiples
+    - [ ] Queen Attack
+    - [ ] Saddle Points
+    - [ ] Ocr Numbers
+    - [ ] Meetup
+    - [ ] Bracket Push
+    - [ ] Two Bucket
+    - [ ] Diamond
+    - [ ] Isogram
+    - [ ] All Your Base
+    - [ ] Connect
+- [ ] Create Videos for ECMAScript Exercism:
+    - [ ] Hello World
+    - [ ] Leap
+    - [ ] Hamming
+    - [ ] Rna Transcription 
+    - [ ] Pangram
+    - [ ] Bob
+    - [ ] Gigasecond
+    - [ ] Perfect Numbers
+    - [ ] Word Count
+    - [ ] Pangram
+    - [ ] Beer Song
+    - [ ] Phone Number
+    - [ ] Anagram
+    - [ ] Food Chain
+    - [ ] Grade School
+    - [ ] Robot Name
+    - [ ] Etl
+    - [ ] Space Age
+    - [ ] Grains
+    - [ ] Triangle
+    - [ ] Clock
+    - [ ] Acronym
+    - [ ] Scrabble Score
+    - [ ] Roman Numerals
+    - [ ] Circular Buffer
+    - [ ] Prime Factors
+    - [ ] Raindrops
+    - [ ] Allergies
+    - [ ] Strain
+    - [ ] Atbash Cipher
+    - [ ] Accumulate
+    - [ ] Crypto Square
+    - [ ] Sieve
+    - [ ] Simple Cipher
+    - [ ] Luhn
+    - [ ] Pig Latin
+    - [ ] Pythagorean Triplet
+    - [ ] Series
+    - [ ] Difference Of Squares
+    - [ ] Secret Handshake
+    - [ ] Linked List
+    - [ ] Wordy
+    - [ ] Largest Series Product
+    - [ ] Kindergarten Garden
+    - [ ] Binary Search
+    - [ ] Binary Search Tree
+    - [ ] Matrix
+    - [ ] Robot Simulator
+    - [ ] Nth Prime
+    - [ ] Palindrome Products
+    - [ ] Pascals Triangle
+    - [ ] Say
+    - [ ] Custom Set
+    - [ ] Sum Of Multiples
+    - [ ] Queen Attack
+    - [ ] Saddle Points
+    - [ ] Ocr Numbers
+    - [ ] Meetup
+    - [ ] Bracket Push
+    - [ ] Two Bucket
+    - [ ] Diamond
+    - [ ] Isogram
+    - [ ] All Your Base
+    - [ ] 
 - [ ] CoffeeScript Docs: http://coffeescript.org/
 - [ ] CoffeeScript Exercism: http://exercism.io/languages/coffeescript
     - [ ] Hello World
@@ -179,7 +310,72 @@
     - [ ] Linked List
     - [ ] Pascals Triangle
     - [ ] Nucleotide Count 
-
+- [ ] Create Videos for CoffeeScript Exercism
+    - [ ] Hello World
+    - [ ] Bob
+    - [ ] Word Count
+    - [ ] Accumulate
+    - [ ] Binary
+    - [ ] Anagram
+    - [ ] Trinary
+    - [ ] Hexadecimal
+    - [ ] Luhn
+    - [ ] Binary Search Tree
+    - [ ] Nth Prime
+    - [ ] Palindrome Products
+    - [ ] Queen Attack
+    - [ ] Wordy
+    - [ ] Clock
+    - [ ] Beer Song
+    - [ ] Atbash Cipher
+    - [ ] Linked List
+    - [ ] Pascals Triangle
+    - [ ] Nucleotide Count 
+- [ ] TypeScript Docs: https://www.typescriptlang.org/
+- [ ] TypeScript Exercism: http://exercism.io/languages/typescript/exercises
+    - [ ] Hello World
+    - [ ] Leap
+    - [ ] Hamming
+    - [ ] Rna Transcription
+    - [ ] Bob
+    - [ ] Gigasecond
+    - [ ] Word Count
+    - [ ] Pangram
+    - [ ] Beer Song
+    - [ ] Phone Number
+    - [ ] Anagram
+    - [ ] Food Chain
+    - [ ] Grade School
+    - [ ] Robot Name
+    - [ ] Etl
+    - [ ] Space Age
+    - [ ] Wordy
+    - [ ] Say
+    - [ ] Difference of Squares
+    - [ ] Scrabble Score
+    - [ ] Raindrops
+- [ ] Videos for TypeScript Exercism
+    - [ ] Hello World
+    - [ ] Leap
+    - [ ] Hamming
+    - [ ] Rna Transcription
+    - [ ] Bob
+    - [ ] Gigasecond
+    - [ ] Word Count
+    - [ ] Pangram
+    - [ ] Beer Song
+    - [ ] Phone Number
+    - [ ] Anagram
+    - [ ] Food Chain
+    - [ ] Grade School
+    - [ ] Robot Name
+    - [ ] Etl
+    - [ ] Space Age
+    - [ ] Wordy
+    - [ ] Say
+    - [ ] Difference of Squares
+    - [ ] Scrabble Score
+    - [ ] Raindrops
 
 
 ### Vue
